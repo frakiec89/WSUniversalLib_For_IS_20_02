@@ -20,6 +20,9 @@ namespace WSUniversalLib
         /// <returns>целое количество необходимого сырья, -1 если не  корректные  данные </returns>
         public int GetQuantityForProduct (int productType, int materialType, int count, float width, float length)
         {
+
+
+
             return 0;
         }
     }
