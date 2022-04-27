@@ -27,16 +27,25 @@
 
 
 Библиотека классов WSUniversalLib.dll 
+
 Название класса Calculation
+
 Название метода GetQuantityForProduct()
+
 Входящие
 обязательные
 параметры
+
 int productType,
+
 int materialType,
+
 int count,
+
 float width,
+
 float length
-Возвращаемые
-параметры
+
+Возвращаемые параметры
+
 int
